@@ -1,1 +1,1 @@
-i have created my first portfolio using html and css in the vs coder
+I have created my first portfolio using html and css in the vs coder
